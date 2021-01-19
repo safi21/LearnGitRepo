@@ -1,0 +1,38 @@
+[33mcommit 1c8ee5a85c894ddd52d9d4b1b4156a35404c8436[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Safi Ahmed <56792521+safi21@users.noreply.github.com>
+Date:   Tue Jan 19 21:56:02 2021 +0600
+
+    Create README.md
+
+[33mcommit 80ef50d54cc9df07878b2c5f961a4df32dafd976[m
+Merge: 54606ea a2e6001
+Author: Safi Ahmed <56792521+safi21@users.noreply.github.com>
+Date:   Tue Jan 19 21:41:11 2021 +0600
+
+    Merge pull request #1 from safi21/dev
+    
+    This is edited on dev before pushing on Github
+
+[33mcommit a2e60017718c6b0a03420195c2f0dc235ce675bd[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m
+Author: sappi21 <sappiahmed@gmail.com>
+Date:   Tue Jan 19 21:28:47 2021 +0600
+
+    This is edited on dev before pushing on Github
+
+[33mcommit 54606ea405566dfedb250957fc3b41f54d7badb0[m
+Author: sappi21 <sappiahmed@gmail.com>
+Date:   Tue Jan 19 21:00:25 2021 +0600
+
+    hellow world edited on dev branch
+
+[33mcommit 29496f2b659ae4714b1234017463ea2734bd81e8[m
+Author: sappi21 <sappiahmed@gmail.com>
+Date:   Tue Jan 19 20:49:29 2021 +0600
+
+    hi.py edited
+
+[33mcommit 538d3aeaeeccac5f3a0e94351c27eb37d348cbcd[m
+Author: sappi21 <sappiahmed@gmail.com>
+Date:   Tue Jan 19 20:28:23 2021 +0600
+
+    hello world
