@@ -1,7 +1,7 @@
 def selsort(x):
     for i in range(len(x) - 1):
         min_pos = i
-        for j in range(k + 1, len(x)):
+        for j in range(i + 1, len(x)):
             if x[j] < x[min_pos]:
                 min_pos = j
         x[i], x[min_pos] = x[min_pos], x[i]
@@ -21,4 +21,4 @@ for k in range(0, len(l) - 1):
     l[k] = l[mp]
     l[mp] = temp
 
-    print(l)
+print(l)
